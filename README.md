@@ -2,6 +2,8 @@
 
 React Toast Popup is a simple and customizable toast notification component for React applications.
 
+![Frontend_System_Design_Questions__Toast_Component___HLD_LLD](https://github.com/piyush-eon/react-toast-popup/assets/51760520/be023ecf-39fb-4cb0-beeb-98519050ba99)
+
 ## Installation
 
 You can install React Toast Popup via npm:
