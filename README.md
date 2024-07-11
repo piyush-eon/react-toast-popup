@@ -55,6 +55,23 @@ triggerNotification({
 });
 ```
 
+#### Animations
+
+You can specify an animation type for the notifications. The available animations are:
+
+- "fade"
+- "pop"
+- "slide"
+
+```jsx
+triggerNotification({
+  type: "success",
+  message: "This is a success message with a pop animation!",
+  duration: 3000,
+  animation: "pop",
+});
+```
+
 ## API
 
 ```jsx
