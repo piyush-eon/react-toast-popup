@@ -1,6 +1,6 @@
 {
   "name": "react-toast-popup",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React Toast Popup is a simple and customizable toast notification component for React applications.",
   "main": "dist/index.js",
   "module": "dist/index.js",
